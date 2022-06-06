@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Jogo
+comment1.params=jogadorInput1\ jogadorInput2
+comment1.target=Jogo(Jogador,\ Jogador)
+comment2.params=
+comment2.target=void\ comecaJogo()
+comment3.params=
+comment3.target=void\ vencedor()
+comment4.params=
+comment4.target=void\ regras()
+numComments=5
